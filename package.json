@@ -1,0 +1,15 @@
+{
+  "name": "dvfelipedeo",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:Felipe-Deo/dvfelipedeo.git",
+  "author": "PinhoOn <pinhoonjob@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.pug src/products.pug --out-dir docs",
+    "build": "rm -rf docs && parcel build src/*.pug --out-dir docs --public-url ./ && echo aceitacafe.com.br >> docs/CNAME"
+  },
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
