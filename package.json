@@ -1,15 +1,22 @@
 {
   "name": "dvfelipedeo",
   "version": "1.0.0",
-  "main": "src/index.js",
   "repository": "git@github.com:Felipe-Deo/dvfelipedeo.git",
   "author": "PinhoOn <pinhoonjob@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/index.pug src/products.pug --out-dir docs",
-    "build": "rm -rf docs && parcel build src/*.pug --out-dir docs --public-url ./ && echo aceitacafe.com.br >> docs/CNAME"
+    "build": "rm -rf docs && parcel build src/*.pug"
   },
   "dependencies": {
+    "parcel": "^2.0.0-rc.0",
     "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "@parcel/transformer-pug": "^2.0.0-rc.0",
+    "@parcel/transformer-sass": "^2.0.0-rc.0",
+    "cssnano": "^5.0.7",
+    "postcss": "^8.2.15"
   }
 }

@@ -1,0 +1,26 @@
+.font {
+  &__maximum {
+    font-size: 50px;
+    font-weight: bold;
+  }
+
+  &__medium {
+    font-size: 25px;
+    font-weight: 500;
+  }
+
+  &__minimum {
+    font-size: 17px;
+    font-weight: 300;
+  }
+
+  &__desc {
+    font-size: 20px;
+    font-weight: 300;
+  }
+
+  &__light {
+    color: #4F4F4F;
+    font-size: 15px;
+  }
+}
