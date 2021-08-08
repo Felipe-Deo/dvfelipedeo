@@ -6,17 +6,14 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/index.pug src/products.pug --out-dir docs",
-    "build": "rm -rf docs && parcel build src/*.pug"
+    "build": "rm -rf docs && parcel build src/*.pug --no-minify --out-dir docs --public-url ./ && echo https://felipe-deo.github.io/dvfelipedeo/ >> docs/CNAME"
   },
   "dependencies": {
-    "parcel": "^2.0.0-rc.0",
     "pug": "^3.0.2"
   },
   "devDependencies": {
-    "@parcel/transformer-image": "^2.0.0-rc.0",
-    "@parcel/transformer-pug": "^2.0.0-rc.0",
-    "@parcel/transformer-sass": "^2.0.0-rc.0",
     "cssnano": "^5.0.7",
-    "postcss": "^8.2.15"
+    "postcss": "^8.2.15",
+    "sass": "^1.37.5"
   }
 }
