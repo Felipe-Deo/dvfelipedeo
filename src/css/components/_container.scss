@@ -1,8 +1,8 @@
 .container {
   display: flex;
-  position: relative;
   flex-direction: column;
   margin: 0 auto;
+  position: relative;
   
   @media screen and (min-width: 561px) {
     max-width: 520px;
@@ -14,8 +14,13 @@
 
   &__block {
     background-color: #f4f4f4;
-    padding: 20px 90px;
+    border-radius: 10px;
     margin-top: 25px;
+    padding: 20px 90px;
+  }
+
+  &__block:last-of-type {
+    margin-bottom: 50px;
   }
 
   &__title {
@@ -23,19 +28,19 @@
   }
 
   &__desc {
-    margin: 10px;
+    margin: 10px 0;
   }
 
   &__image { 
-    position: absolute;
-    display: flex;
-    left: 20px;
-    width: 50px;
-    height: 50px;
-    border-radius: 18px;
-    background-color: #858585;
-    justify-content: center;
     align-items: center;
+    background-color: #858585;
+    border-radius: 18px;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    left: 20px;
+    position: absolute;
+    width: 50px;
   }
 
   &__image::before {

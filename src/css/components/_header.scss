@@ -1,19 +1,19 @@
 .header {
+  align-items: center;
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  align-items: center;
-  width: 100%;
   overflow: hidden;
+  width: 100%;
 
   &__background {
-    position: absolute;
-    width: calc(100% + 50px);
-    height: 300px;
-    top: -180px;
-    left: -10px;
     background-color: black;
+    height: 300px;
+    left: -10px;
+    position: absolute;
+    top: -180px;
     transform:rotateZ(-3deg);
+    width: calc(100% + 50px);
     z-index: 1;
   }
 
@@ -23,16 +23,16 @@
 
   &__image {
     display: flex;
+    height: 130px;
     margin: 40px auto 10px;
     width: 130px;
-    height: 130px;
     z-index: 2;
   }
 
   &__contact {
+    align-items: center;
     display: flex;
     justify-content: space-between;
-    align-items: center;
     
     @media screen and (min-width: 341px) {
       width: 330px;
@@ -44,8 +44,8 @@
   }
 
   &__social {
-    display: flex;
     color: black;
+    display: flex;
   }
 
   &__social::before {
