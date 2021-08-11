@@ -33,7 +33,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 330px;
+    
+    @media screen and (min-width: 341px) {
+      width: 330px;
+    }
+  
+    @media screen and (max-width: 340px) {
+      width: 300px;
+    }
   }
 
   &__social {

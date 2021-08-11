@@ -3,5 +3,13 @@ body {
   height: 100%;
   margin: 0;
   font-family: 'Teko', sans-serif;
-  overflow: hidden;
+  overflow-x: hidden;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
 }
