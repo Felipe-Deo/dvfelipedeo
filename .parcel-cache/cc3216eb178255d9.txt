@@ -76,7 +76,7 @@
 110C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\terser\node_modules\source-map\lib\base64.js132930719632388542 0
 72C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\base-x132930719632865657 1
 107C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\source-map-js\lib\source-map-generator.js132930719654241019 0
-65C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\package.json132930721295439419 0
+65C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\package.json132935168704504027 0
 73C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel132930720410647919 1
 97C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\with\.github\workflows\test.yml132930701908758973 0
 88C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\get-intrinsic\index.js132930701883465367 0
