@@ -1,10 +1,10 @@
-5657
+5674
 72C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\braces132930701858004656 1
 94C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\css-select\lib\sort.d.ts.map132930719683098561 0
 83C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\nan\nan_private.h132935172573034307 0
 114C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-ordered-values\types\rules\flexFlow.d.ts132930719677338129 0
 116C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\features\intersectionobserver.js132930701863317612 0
-57C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\dist132935817916200947 1
+57C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\dist132935820434013469 1
 91C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\lines-and-columns\LICENSE132935172547623817 0
 103C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\features\css-all.js132930701860645240 0
 147C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\foo.js132935172578216754 0
@@ -34,6 +34,24 @@
 59C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\.cache132930701852824552 1
 106C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-normalize-display-values\src\lib132930719652323226 1
 117C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-minify-font-values\src\lib\minify-family.js132930719653410744 0
+73C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel132935173319547960 1
+97C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\with\.github\workflows\test.yml132930701908758973 0
+88C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\get-intrinsic\index.js132930701883465367 0
+112C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js132930719698231539 0
+85C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\js-tokens\README.md132935172551882743 0
+100C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\node-addon-api\tools\check-napi.js132935172559448671 0
+80C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\lodash.memoize132930701894528901 1
+106C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@swc\helpers\src\_array_like_to_array.js132935172619314693 0
+110C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-selector-parser\dist\util\getProp.js132930719654336026 0
+78C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\yaml\browser132930701909506898 1
+62C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\README.md132930701853004593 0
+97C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\domutils\lib\traversal.d.ts.map132930719663947126 0
+99C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\mdn-data\css\at-rules.schema.json132930701894608914 0
+98C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\term-size\vendor\macos\term-size132935172551462908 0
+115C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-selector-parser\dist\util\ensureObject.js132930719653800828 0
+57C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs132935818714232287 1
+102C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\css-what\lib\commonjs\stringify.d.ts132930719682231804 0
+74C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\posthtml132935172552268227 1
 104C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\core\test\EntryRequest.test.js132935172626734965 0
 86C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\terser\lib\output.js132935172596742673 0
 105C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\resolve\test\resolver\symlinked\package132930701906058365 1
@@ -77,18 +95,6 @@
 72C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\base-x132935172550516285 1
 107C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\source-map-js\lib\source-map-generator.js132930719654241019 0
 65C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\package.json132935817815840187 0
-73C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel132935173319547960 1
-97C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\with\.github\workflows\test.yml132930701908758973 0
-88C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\get-intrinsic\index.js132930701883465367 0
-112C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js132930719698231539 0
-85C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\js-tokens\README.md132935172551882743 0
-100C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\node-addon-api\tools\check-napi.js132935172559448671 0
-80C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\lodash.memoize132930701894528901 1
-106C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@swc\helpers\src\_array_like_to_array.js132935172619314693 0
-110C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-selector-parser\dist\util\getProp.js132930719654336026 0
-78C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\yaml\browser132930701909506898 1
-62C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\README.md132930701853004593 0
-97C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\domutils\lib\traversal.d.ts.map132930719663947126 0
 83C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\nan\doc\scopes.md132935172596442612 0
 62C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\yarn.lock132935173320368233 0
 80C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\nan\nan_json.h132935172560942040 0
@@ -143,7 +149,7 @@
 82C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\svgo\lib\svgo.js132930719700328895 0
 90C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\yaml\dist\test-events.js132930701909586907 0
 92C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\function-bind\package.json132930701883395341 0
-77C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\src\templates\header.pug132930701910324379 0
+77C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\src\templates\header.pug132935820339801057 0
 79C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\jstransformer132930701894478861 1
 107C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-minify-selectors\types\index.d.ts132930719655449629 0
 71C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\src\css\components132930701910244344 1
@@ -161,7 +167,7 @@
 118C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\msgpackr-extract\prebuilds\win32-x64\node.abi72.node132935172615537351 0
 81C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\src\css\helpers\_states.scss132930701910264340 0
 105C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\features\web-share.js132930701864697925 0
-68C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\dist\index.html132935817916110919 0
+68C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\dist\index.html132935820433993460 0
 99C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\source-map\dist\source-map.min.js132930701907188632 0
 89C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\acorn\dist\acorn.js.map132930703642663819 0
 100C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\features\xhr2.js132930701864837959 0
@@ -340,6 +346,7 @@
 83C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\with\src\index.ts132930701908909006 0
 85C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\terser\lib\scope.js132935172615216204 0
 83C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\dist132930701866858410 1
+75C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.280526ac.js132930701853024694 0
 85C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\parse-json\index.js132935172548095709 0
 80C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\constantinople132930701871831881 1
 106C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\css-tree\lib\syntax\node\MediaFeature.js132930701877558839 0
@@ -414,6 +421,7 @@
 84C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\constantinople\lib132930701871771861 1
 105C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\features\dragndrop.js132930701862427412 0
 87C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\dist\lib132930701866848408 1
+76C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.8c1c22dc.css132930720424357476 0
 103C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\msgpackr-extract\.circleci\config.yml132935172625825732 0
 76C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\domhandler132930719654723646 1
 81C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\source-map\dist132930701907208631 1
@@ -829,11 +837,6 @@
 97C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\regions\SV.js132930701866548343 0
 86C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-value-parser132930719653000663 1
 99C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\mdn-data\css\syntaxes.schema.json132930701894678002 0
-99C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\mdn-data\css\at-rules.schema.json132930701894608914 0
-98C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\term-size\vendor\macos\term-size132935172551462908 0
-115C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-selector-parser\dist\util\ensureObject.js132930719653800828 0
-102C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\css-what\lib\commonjs\stringify.d.ts132930719682231804 0
-74C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\posthtml132935172552268227 1
 85C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\pug-linker\index.js132930701904978088 0
 96C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\terser\node_modules\.bin\acorn132935172688655767 0
 93C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\babel-walk\lib\explode.d.ts132930701856294272 0
@@ -1987,10 +1990,10 @@
 100C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\resolve\test\node-modules-paths.js132930701905618230 0
 94C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\msgpackr-extract\binding.gyp132935172549065552 0
 91C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\resolve\test\nonstring.js132930701905688250 0
+117C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@swc\helpers\lib\_class_private_field_loose_base.js132935172573404392 0
 89C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\resolve\test\subdirs.js132930701906108371 0
 87C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\is-regex\CHANGELOG.md132930701894319634 0
 91C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\colord\plugins\minify.mjs132930719684312403 0
-117C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@swc\helpers\lib\_class_private_field_loose_base.js132935172573404392 0
 92C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\js-stringify\test\index.js132930701894435295 0
 119C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\resolve\test\shadowed_core\node_modules\util\index.js132930701906098371 0
 115C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-minify-font-values\src\lib\minify-font.js132930719654030878 0
@@ -2505,6 +2508,7 @@
 103C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-reduce-transforms\LICENSE-MIT132930719647125256 0
 104C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-reduce-transforms\package.json132930719647705383 0
 99C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\css-tree\lib\syntax\node\Value.js132930701878478493 0
+80C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.8c1c22dc.css.map132930720424387471 0
 83C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\lmdb\util\when.js132935172628175293 0
 95C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-reduce-transforms\src132930719647375313 1
 102C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-minify-font-values\README.md132930719655459633 0
@@ -2736,6 +2740,7 @@
 96C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\cache\src\LMDBCache.js132935172573674463 0
 116C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-merge-longhand\types\lib\isCustomProp.d.ts132930719697091784 0
 95C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\character-parser\package.json132930701866998442 0
+80C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.500e29ae.css.map132930701853044699 0
 108C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js132930701879066424 0
 114C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-merge-longhand\types\lib\mergeRules.d.ts132930719697201819 0
 115C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\postcss-merge-longhand\types\lib\mergeValues.d.ts132930719697278914 0
@@ -3085,6 +3090,7 @@
 102C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\msgpackr-extract\prebuilds\win32-x64132935172625485526 1
 102C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\transformer-css\package.json132935172572834269 0
 118C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\msgpackr-extract\prebuilds\win32-x64\node.abi88.node132935172619444731 0
+79C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.58a03d8a.js.map132935817916110919 0
 118C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\msgpackr-extract\prebuilds\win32-x64\node.abi93.node132935172625745731 0
 123C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi72.musl.node132935172596335577 0
 113C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js132930701877945439 0
@@ -3241,8 +3247,8 @@
 119C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js132935172577361613 0
 121C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln132935172688226373 0
 97C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\regions\LI.js132930701866078239 0
-113C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md132935172628535511 0
 98C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\lines-and-columns\build\index.js132935172548254943 0
+113C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md132935172628535511 0
 114C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb132935172688384753 1
 115C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\utils\test\input\sourcemap\source-root.js132935172626402920 0
 125C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\.npmignore132935172548135722 0
@@ -3681,6 +3687,7 @@
 88C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\domelementtype\LICENSE132930701882815216 0
 93C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\domelementtype\package.json132930701882845219 0
 93C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\domelementtype\lib\index.js132930701882835317 0
+68C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.html132935817916110919 0
 84C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\dom-serializer\lib132930701882805227 1
 116C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js132935172596582640 0
 88C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\dom-serializer\LICENSE132930701882765211 0
@@ -4111,6 +4118,7 @@
 109C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@babel\types\lib\asserts\generated\index.js132930701853427071 0
 97C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\regions\AG.js132930701865398083 0
 97C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\regions\AL.js132930701865408085 0
+77C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\felipe.f3fa0c0c.png132930701853014595 0
 101C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\regions\alt-as.js132930701866798401 0
 101C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\regions\alt-eu.js132930701866808396 0
 111C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\abortcontroller-polyfill\dist\umd-polyfill.js132935172558928469 0
@@ -4537,6 +4545,7 @@
 105C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\features\shadowdom.js132930701864277841 0
 100C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\features\spdy.js132930701864307838 0
 114C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\features\speech-recognition.js132930701864317840 0
+77C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\felipe.e9e214a1.png132930720424357476 0
 108C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\features\style-scoped.js132930701864367853 0
 117C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\caniuse-lite\data\features\subresource-integrity.js132930701864377852 0
 111C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\binary-extensions\binary-extensions.json.d.ts132930701857134468 0
@@ -4707,6 +4716,7 @@
 107C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@swc\helpers\lib\_class_name_tdz_error.js132935172571994073 0
 116C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@swc\helpers\lib\_class_private_field_loose_key.js132935172573774476 0
 98C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\.cache\fb\eebefb225c46e7d86e21d148b4c969.json132930701852834560 0
+76C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.500e29ae.css132930701853034600 0
 110C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@swc\helpers\lib\_class_private_field_set.js132935172574104555 0
 111C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@swc\helpers\lib\_class_private_method_get.js132935172574464647 0
 111C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@swc\helpers\lib\_class_private_method_set.js132935172575004759 0
@@ -5039,6 +5049,7 @@
 88C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\runtime-js\src132935172597359102 1
 101C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\runtime-js\src\JSRuntime.js132935172597559149 0
 111C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\runtime-js\src\helpers\.eslintrc.json132935172616157513 0
+76C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.b60e633a.css132935817916110919 0
 114C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@babel\highlight\node_modules\color-name\LICENSE132935172549868763 0
 104C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\runtime-js\src\helpers\browser132935172615637387 1
 111C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js132935172574094547 0
@@ -5631,6 +5642,12 @@
 79C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\.bin\svgo.cmd132930719745986877 0
 79C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\.bin\svgo.ps1132930719745986877 0
 81C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\node_modules\.bin\terser.cmd132935172688625765 0
+77C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\felipe.1693f1d2.png132935817906772449 0
+79C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.280526ac.js.map132930701853034600 0
+75C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.579125c3.js132930720424897724 0
+79C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.579125c3.js.map132930720424897724 0
+75C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.58a03d8a.js132935817916110919 0
+80C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\docs\index.b60e633a.css.map132935817916110919 0
 77C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\dist\felipe.1693f1d2.png132935817906772449 0
 77C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\dist\felipe.e9e214a1.png132930720424357476 0
 76C:\Users\fedeo\Documents\GitHub\felipecdeo.github.io\dist\index.500e29ae.css132930701853034600 0
